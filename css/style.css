@@ -529,7 +529,7 @@ text-align: left;
 }
 
 .card img {
-  align-content: left;
+  /* align-content: left; */
   max-width: 200px;
   height: 200px;
   margin-right: 10px;
@@ -836,7 +836,7 @@ h3
 }
 
 .card img {
-  align-content: left;
+  /* align-content: left; */
   max-width: 400px;
   height: 400px;
   margin-right: 0px;
