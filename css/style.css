@@ -773,7 +773,7 @@ h3
     font-style: italic;
     color:#d83558;
 }
--------------TABLE--------------
+/* -------------TABLE-------------- */
 .table tbody, .table tr, .table td {
     display: table-row;
     width: auto;
